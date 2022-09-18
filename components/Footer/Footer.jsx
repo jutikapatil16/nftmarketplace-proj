@@ -25,7 +25,7 @@ const Footer = () => {
           <p>
             The world’s  largest digital marketplace for crypto
             collectibles and non-fungible tokens (NFTs). Buy, sell, and fund
-            and protect.
+            and protect the valuable asset
           </p>
 
           <div className={Style.footer_social}>
