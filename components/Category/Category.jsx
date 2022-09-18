@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import { BsCircleFill } from "react-icons/bs";
 
-//INTERNAL IMPORT
+//INTERNAL IMPORTTT
 import Style from "./Category.module.css";
 import images from "../../img";
 
