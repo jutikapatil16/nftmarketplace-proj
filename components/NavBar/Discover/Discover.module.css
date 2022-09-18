@@ -9,4 +9,5 @@
   background-color: var(--icons-color);
   color: var(--shadow-dark-color);
   border-radius: .3rem;
+  border-bottom:1rem;
 }
